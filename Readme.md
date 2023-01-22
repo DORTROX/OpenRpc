@@ -19,7 +19,9 @@ A discord Rpc using `pypresence` to make your profile look a lil cool and descri
 
         <img src="https://user-images.githubusercontent.com/78467470/213911573-fea212ae-b9e0-4731-b93d-39ec4cd6d9fc.png">
     - Enter the Name for your application and check terms and conditions box.
+
         <img src="https://user-images.githubusercontent.com/78467470/213911690-3ddc9ddc-8c14-47bf-838a-49bee93f710e.png">
+        
     - On General information page you will see `application id` Copy it.
 
         <img src="https://user-images.githubusercontent.com/78467470/213911730-404c0a35-dcb8-4733-b5ff-eb4eb946e903.png">
