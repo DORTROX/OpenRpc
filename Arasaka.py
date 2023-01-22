@@ -32,5 +32,5 @@ while True:
     cpu_per = round(psutil.cpu_percent(),1)
     mem = psutil.virtual_memory()
     mem_per = round(psutil.virtual_memory().percent,1)
-    rpc.update(large_image="sukuna", large_text="Kaizen Domain Expansion", small_image="qin_shi_huang", small_text="Known 1",state="CPU: " + str(cpu_per) + "% " + "RAM: "+str(mem_per)+"%", details=str(letters[letterN]), buttons= [{"label": "Github","url":"https://github.com/DORTROX"}, {"label": "Instagram","url":"https://www.instagram.com/dortrox4u/"}])
+    rpc.update(large_image="largeImage", large_text="Kaizen Domain Expansion", small_image="smallImage", small_text="Known 1",state="CPU: " + str(cpu_per) + "% " + "RAM: "+str(mem_per)+"%", details=str(letters[letterN]), buttons= [{"label": "Github","url":"https://github.com/DORTROX"}, {"label": "Instagram","url":"https://www.instagram.com/dortrox4u/"}])
     time.sleep(1)
