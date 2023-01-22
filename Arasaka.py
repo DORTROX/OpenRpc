@@ -14,7 +14,7 @@ import pypresence
 import time
 import psutil
 
-rpc = pypresence.Presence("1066289004460392490")
+rpc = pypresence.Presence("your application id")
 rpc.connect()
 letters = ["Web Developer 2k19", "S Developer 2k20", "Cyber Sec 2k21", "Game Dev 2k22"]
 letterN = 0
